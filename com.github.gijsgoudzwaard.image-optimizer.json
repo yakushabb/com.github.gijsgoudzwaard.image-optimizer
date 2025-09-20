@@ -4,7 +4,7 @@
     "base-version": "circe-24.08",
     "runtime": "org.gnome.Platform",
     "sdk": "org.gnome.Sdk",
-    "runtime-version": "48",
+    "runtime-version": "49",
     "command": "com.github.gijsgoudzwaard.image-optimizer",
     "finish-args": [
         /* X11 + XShm */
